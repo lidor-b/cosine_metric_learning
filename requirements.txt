@@ -1,0 +1,2 @@
+python=3.6.x
+tensorflow=1.x
